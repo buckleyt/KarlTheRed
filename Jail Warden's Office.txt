@@ -1,0 +1,13 @@
+||||||||||xxxxxx
+|BBBBBBBB|xxxxxx
+|B       |xxxxxx
+|B       |||||||
+|B    T        |
+|B    T     f  |
+|B             |
+||||||||||D|||||
+end
+Type: 0
+Floor: Jail
+Num: 9
+Door: 0 Main Jail Room.txt

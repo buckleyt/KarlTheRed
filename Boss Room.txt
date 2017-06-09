@@ -1,0 +1,19 @@
+xxxxxx||||D||||xxxxxx
+xxxxxx|f     f|xxxxxx
+xxxxxx|f     f|xxxxxx
+xxxxxx|f     f|xxxxxx
+xxxxxx|f     f|xxxxxx
+xxxxxx|f     f|xxxxxx
+|||||||f     f|||||||
+|ffffff       ffffff|
+|f                 f|
+|f                 f|
+|f                 f|
+|fffffffff fffffffff|
+||||||||||D||||||||||
+end
+Type: 0
+Floor: Jail
+Num: 7
+Door: 2 Main Jail Room.txt
+Door: 0 Garden.txt

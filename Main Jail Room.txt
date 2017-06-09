@@ -1,0 +1,20 @@
+\__________D__________\
+|                     |
+|  f             ff   |
+|                     |
+|          T          |
+|                     |
+|                     |
+|                     |
+|                     |
+|          T          |
+|                     |
+|  ff                 |
+|                     |
+\__________D__________\
+end
+Type: 0
+Floor: Jail
+Num: 8
+Door: 0 Jail Warden's Office.txt
+Door: 0 Boss Room.txt

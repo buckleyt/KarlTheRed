@@ -1,0 +1,17 @@
+|||||||||D||||||||||xxxx
+|                  |xxxx
+|                  |xxxx
+|                  |xxxx
+|                  |xxxx
+|                  |||||
+|                      |
+|                      |
+|                      |
+|                      |
+|                      |
+||||||||||||||||||||||||
+end
+Type: 1
+Floor: Garden
+Num: 8
+Door: 1 Boss Room.txt
